@@ -1,0 +1,22 @@
+{
+  "name": "web-starter",
+  "version": "1.0.0",
+  "description": "barebones web starter kit using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robzhu/web-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robzhu/web-starter/issues"
+  },
+  "homepage": "https://github.com/robzhu/web-starter#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
